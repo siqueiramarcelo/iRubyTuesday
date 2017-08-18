@@ -16,7 +16,7 @@
 #define is_iPhone5 ( [ [ UIScreen mainScreen ] bounds ].size.height == 568 )
 #define is_iPhone4 ( [ [ UIScreen mainScreen ] bounds ].size.height == 480 )
 
-NSString * const businessName = @"Hotel RubyTuesday";
+NSString * const businessName = @"Pousada RubyTuesday";
 NSString * const appIDNumber = @"881491038";
 
 @interface MasterViewController () <

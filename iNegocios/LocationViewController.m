@@ -221,7 +221,7 @@ int selectedBranch = 0;
     int branchID = [sender.branchID intValue];
     Branch *branchNow = self.branches[branchID];
     
-    self.panelLabel1.font = [UIFont fontWithName:@"OpenSans-Semibold" size:20];
+    self.panelLabel1.font = [UIFont fontWithName:@"OpenSans-Semibold" size:17];
     self.panelLabel1.textColor = [UIColor whiteColor];
     self.panelLabel1.text = branchNow.houseName;
     

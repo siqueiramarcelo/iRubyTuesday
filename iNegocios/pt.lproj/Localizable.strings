@@ -12,36 +12,36 @@
 "MENU_ITEM_5" = "Skype";
 "MENU_ITEM_6" = "Email";
 "MENU_ITEM_7" = "Compartilhar";
-"MENU_ITEM_8" = "Mais...";
+"MENU_ITEM_8" = "Especial";
 
 "APP_DESCRIPTION" = "Contato Comercial Interativo";
 "EMAIL_SUBJECT" = "Suporte";
-"FRONT_MAP_TITLE" = "Para começar, escolha\num Hotel RubyTuesday.";
-"ABOUT_US_TITLE" = "Hotel RubyTuesday";
-"ABOUT_US" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nNam liber te conscient to factor tum poen legum odioque civiuda.\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+"FRONT_MAP_TITLE" = "Para começar, escolha\numa das Pousadas";
+"ABOUT_US_TITLE" = "Pousada RubyTuesday";
+"ABOUT_US" = "A Pousada RubyTuesday é um conceito de arte, decoração e cultura. Nasceu da excelência e reside na beleza natural de Armação dos Búzios. Toda a pousada é uma celebração à cultura brasileira, cada ambiente foi elaborado à mão, conforme a história ímpar de nossa nação. O luxo se envolve com a natureza e o cenário inebriante é uma retificação fidedigna da filosofia do RubyTuesday. Cada detalhe engloba nossa esfera. O RubyTuesday é mais que uma pousada. Todos os cuidados em sua criação e a alma verde-e-amarela personificam e singularizam seu meio.";
 
-"BRANCH1_PHONE" = "00000000";
+"BRANCH1_PHONE" = "26232172";
 "BRANCH1_NAME" = "Escritório central";
 "BRANCH1_LOCAL" = "Búzios";
 "BRANCH1_WEBSITE" = "www.rubytuesdaysoft.com";
 "BRANCH1_SKYPE" = "iRubyTuesday0";
 "BRANCH1_EMAIL" = "hq@rubytuesdaysoft.com";
 
-"BRANCH2_PHONE" = "00000000";
+"BRANCH2_PHONE" = "26232172";
 "BRANCH2_NAME" = "Praia Brava";
 "BRANCH2_LOCAL" = "Búzios";
 "BRANCH2_WEBSITE" = "www.rubytuesdaysoft.com";
 "BRANCH2_SKYPE" = "iRubyTuesday1";
 "BRANCH2_EMAIL" = "brava@rubytuesdaysoft.com";
 
-"BRANCH3_PHONE" = "00000000";
+"BRANCH3_PHONE" = "26232172";
 "BRANCH3_NAME" = "Praia da Tartaruga";
 "BRANCH3_LOCAL" = "Búzios";
 "BRANCH3_WEBSITE" = "www.rubytuesdaysoft.com";
 "BRANCH3_SKYPE" = "iRubyTuesday2";
 "BRANCH3_EMAIL" = "tartaruga@rubytuesdaysoft.com";
 
-"BRANCH4_PHONE" = "00000000";
+"BRANCH4_PHONE" = "26232172";
 "BRANCH4_NAME" = "Praia da Ferradura";
 "BRANCH4_LOCAL" = "Búzios";
 "BRANCH4_WEBSITE" = "www.rubytuesdaysoft.com";

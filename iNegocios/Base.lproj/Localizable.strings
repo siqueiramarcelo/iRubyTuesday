@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  iNegocios
+
+  Created by Marcelo on 5/21/14.
+  Copyright (c) 2014 RubyTuesday Soft. All rights reserved.
+*/
+"MENU_ITEM_1" = "About Us";
+"MENU_ITEM_2" = "Get there";
+"MENU_ITEM_3" = "Website";
+"MENU_ITEM_4" = "Call phone (local)";
+"MENU_ITEM_5" = "Skype call";
+"MENU_ITEM_6" = "Email";
+"MENU_ITEM_7" = "Share";
+"MENU_ITEM_8" = "More...";
+
+"APP_DESCRIPTION" = "Interactive Business Contact";
+"EMAIL_SUBJECT" = "Support";
+"FRONT_MAP_TITLE" = "Start by choosing\na Hotel RubyTuesday.";
+"ABOUT_US_TITLE" = "Hotel RubyTuesday";
+"ABOUT_US" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nNam liber te conscient to factor tum poen legum odioque civiuda.\n\nLorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+
+"BRANCH1_PHONE" = "00000000";
+"BRANCH1_NAME" = "Head Quarters";
+"BRANCH1_LOCAL" = "Búzios";
+"BRANCH1_WEBSITE" = "www.rubytuesdaysoft.com";
+"BRANCH1_SKYPE" = "iRubyTuesdayHQ";
+"BRANCH1_EMAIL" = "hq@rubytuesdaysoft.com";
+
+"BRANCH2_PHONE" = "00000000";
+"BRANCH2_NAME" = "Praia Brava";
+"BRANCH2_LOCAL" = "Búzios";
+"BRANCH2_WEBSITE" = "www.rubytuesdaysoft.com";
+"BRANCH2_SKYPE" = "iRubyTuesday1";
+"BRANCH2_EMAIL" = "brava@rubytuesdaysoft.com";
+
+"BRANCH3_PHONE" = "00000000";
+"BRANCH3_NAME" = "Praia da Tartaruga";
+"BRANCH3_LOCAL" = "Búzios";
+"BRANCH3_WEBSITE" = "www.rubytuesdaysoft.com";
+"BRANCH3_SKYPE" = "iRubyTuesday2";
+"BRANCH3_EMAIL" = "tartaruga@rubytuesdaysoft.com";
+
+"BRANCH4_PHONE" = "00000000";
+"BRANCH4_NAME" = "Praia da Ferradura";
+"BRANCH4_LOCAL" = "Búzios";
+"BRANCH4_WEBSITE" = "www.rubytuesdaysoft.com";
+"BRANCH4_SKYPE" = "iRubyTuesday3";
+"BRANCH4_EMAIL" = "ferradura@rubytuesdaysoft.com";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

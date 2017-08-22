@@ -14,7 +14,7 @@
 "MENU_ITEM_7" = "Compartilhar";
 "MENU_ITEM_8" = "Especial";
 
-"APP_DESCRIPTION" = "Contato Comercial Interativo";
+"APP_DESCRIPTION" = "Pousada RubyTuesday";
 "EMAIL_SUBJECT" = "Suporte";
 "FRONT_MAP_TITLE" = "Para começar, escolha\numa das Pousadas";
 "ABOUT_US_TITLE" = "Pousada RubyTuesday";
@@ -23,29 +23,29 @@
 "BRANCH1_PHONE" = "26232172";
 "BRANCH1_NAME" = "Escritório central";
 "BRANCH1_LOCAL" = "Búzios";
-"BRANCH1_WEBSITE" = "www.rubytuesdaysoft.com";
-"BRANCH1_SKYPE" = "iRubyTuesday0";
+"BRANCH1_WEBSITE" = "pousada.rubytuesdaysoft.com";
+"BRANCH1_SKYPE" = "pousada@rubytuesdaysoft.com";
 "BRANCH1_EMAIL" = "hq@rubytuesdaysoft.com";
 
 "BRANCH2_PHONE" = "26232172";
 "BRANCH2_NAME" = "Praia Brava";
 "BRANCH2_LOCAL" = "Búzios";
-"BRANCH2_WEBSITE" = "www.rubytuesdaysoft.com";
-"BRANCH2_SKYPE" = "iRubyTuesday1";
+"BRANCH2_WEBSITE" = "pousada.rubytuesdaysoft.com";
+"BRANCH2_SKYPE" = "pousada@rubytuesdaysoft.com";
 "BRANCH2_EMAIL" = "brava@rubytuesdaysoft.com";
 
 "BRANCH3_PHONE" = "26232172";
 "BRANCH3_NAME" = "Praia da Tartaruga";
 "BRANCH3_LOCAL" = "Búzios";
-"BRANCH3_WEBSITE" = "www.rubytuesdaysoft.com";
-"BRANCH3_SKYPE" = "iRubyTuesday2";
+"BRANCH3_WEBSITE" = "pousada.rubytuesdaysoft.com";
+"BRANCH3_SKYPE" = "pousada@rubytuesdaysoft.com";
 "BRANCH3_EMAIL" = "tartaruga@rubytuesdaysoft.com";
 
 "BRANCH4_PHONE" = "26232172";
 "BRANCH4_NAME" = "Praia da Ferradura";
 "BRANCH4_LOCAL" = "Búzios";
-"BRANCH4_WEBSITE" = "www.rubytuesdaysoft.com";
-"BRANCH4_SKYPE" = "iRubyTuesday3";
+"BRANCH4_WEBSITE" = "pousada.rubytuesdaysoft.com";
+"BRANCH4_SKYPE" = "pousada@rubytuesdaysoft.com";
 "BRANCH4_EMAIL" = "ferradura@rubytuesdaysoft.com";
 
 

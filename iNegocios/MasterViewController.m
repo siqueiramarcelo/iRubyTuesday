@@ -343,7 +343,7 @@ UIImageView *navBarLogoView;
         MFMailComposeViewController *mailVC = [[MFMailComposeViewController alloc] init];
         mailVC.mailComposeDelegate = self;
         
-        [mailVC setSubject:[NSString stringWithFormat:@"%@ - %@", [self getAppName], NSLocalizedString(@"EMAIL_SUBJECT", @"Email setting")]];
+        [mailVC setSubject:[NSString stringWithFormat:@"%@ - %@", NSLocalizedString(@"APP_DESCRIPTION", @"reference"), NSLocalizedString(@"EMAIL_SUBJECT", @"Email setting")]];
         [mailVC setToRecipients:@[self.currentBranch.houseEmail]];
         
         [self presentViewController:mailVC animated:YES completion:nil];
@@ -371,7 +371,7 @@ UIImageView *navBarLogoView;
 - (void)share {
     
     NSString *appName = [self getAppName];
-    NSString *text = [NSString stringWithFormat:@"\n\n%@ - %@", appName, NSLocalizedString(@"APP_DESCRIPTION", @"App description")];
+    NSString *text = [NSString stringWithFormat:@"\n\n%@", NSLocalizedString(@"APP_DESCRIPTION", @"reference")];
     NSURL *url = [NSURL URLWithString:[NSString stringWithFormat:@"http://itunes.apple.com/app/id%@", appIDNumber]];
     NSArray *items = @[text, url];
     UIActivityViewController *vc = [[UIActivityViewController alloc] initWithActivityItems:items applicationActivities:nil];
